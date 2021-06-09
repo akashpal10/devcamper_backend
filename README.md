@@ -1,6 +1,6 @@
 # devcamper_backend
 
-Backend API for DevCamper application, which is a bootcamp directory website
+Backend API for DevCamper application, which is a bootcamp directory website ,using Node ,Express,mongoDb
 
 ## Install Dependencies
 
