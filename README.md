@@ -1,5 +1,7 @@
 # devcamper_backend
+
 Backend API for DevCamper application, which is a bootcamp directory website
+
 ## Install Dependencies
 
 ```
@@ -10,7 +12,7 @@ npm install
 
 ```
 # Run in dev mode
-npm run dev
+npm run server
 
 
 ```
@@ -26,5 +28,6 @@ node seeder
 # Import all data
 node seeder i
 ```
+
 - Version: 1.0.0
 - License: MIT
